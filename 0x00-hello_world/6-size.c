@@ -1,5 +1,10 @@
 #include <stdio.h>
-
+/**
+*main - Main Entry function of the program
+*
+*
+*Return: No Return Void
+*/
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
