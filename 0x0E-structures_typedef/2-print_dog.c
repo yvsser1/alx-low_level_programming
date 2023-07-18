@@ -6,7 +6,7 @@
 *
 */
 
-void print_dog(struct dog *d)
+void print_dog(struct dog *d, float name, char *owner)
 {
 if (d == NULL)
 return;
